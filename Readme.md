@@ -5,7 +5,7 @@ I have created clone using Html and Tailwind.css. It's my 17th project given as 
 
 ## Live link
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0d9fcae7-4315-46ac-884d-41ca7969c9a1/deploy-status)]()
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0d9fcae7-4315-46ac-884d-41ca7969c9a1/deploy-status)](https://ptk-shopify-clone.netlify.app/)
 
 >.
 ![WebPage](/127.0.0.1_5500_index.html%20(13).png)
